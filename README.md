@@ -1,5 +1,5 @@
 # Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?
-My name is Jayvant and I'm a passionate software engineer, from <img src="https://cdn-icons-png.flaticon.com/512/10597/10597864.png" width="17"/> <b>Pune, India.</b>
+My name is Jayvant and I'm a passionate software developer, from <img src="https://cdn-icons-png.flaticon.com/512/10597/10597864.png" width="17"/> <b>Pune, India.</b>
 
 ## 🚀 About Me
 I'm a passionate software engineer with a diverse skill set, always eager to learn and explore new technologies. Currently, I'm delving into Generative AI to expand my horizons.
