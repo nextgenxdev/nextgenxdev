@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://github.com/nextgenxdev/nextgenxdev/blob/main/dev.gif" />
+</div>
+
 # Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?
 My name is Jayvant and I'm a passionate software developer, from <img src="https://cdn-icons-png.flaticon.com/512/10597/10597864.png" width="17"/> <b>Pune, India.</b>
 
