@@ -33,11 +33,18 @@ const jayvant = {
     currentFocus: "Leading a way in generative AI innovation"
 };
 ```
+
 ### 📈 GitHub Stats
 | <a href="https://github.com/nextgenxdev/ai-pdf-summarizer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nextgenxdev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jayvant's github stats" /></a> | <a href="https://github.com/nextgenxdev/ai-pdf-summarizer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextgenxdev&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### Top Repositories
+### My Workplace Contributions
+Currently employed at Cakewalk
+
+[![Cakewalk Contributions](https://img.shields.io/badge/Cakewalk-Contributions-red)](https://github.com/jayvantpatil9)
+
+<img width="907" height="203" alt="image" src="https://github.com/user-attachments/assets/1c2c87b8-1ba3-4343-96aa-d47148fbdde5" />
+
 
 
 ### 👾 Cool Stuff Everyone Should See
